@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.img.d-block {
+width: 25vh;
+height: auto;
+
+}
+.img.d-block{
+  max-width: 50%;
+  height: au;
+
+
+}
+.flex flex-wrap -m-4 text-center{
+  justify-content: space-around;
+}
+.container{
+  padding-top: 50px;
+}
